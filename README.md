@@ -28,6 +28,15 @@ This project is all about Pizza, enjoy!
 ## Run Server & Client manually
 ### 1.Clone repository
 ```
-git clone blablabal
+git clone https://github.com/OrGanon2/PIzzariaProjectBack.git
 ```
+### 2. Setup C# server
+open sln of backend and run with the play button.
+### 3. Setup React Client
+```
+cd client
+npm install
+npm run start
+```
+
 
