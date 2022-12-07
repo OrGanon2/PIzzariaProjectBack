@@ -15,6 +15,7 @@ This project is all about Pizza, enjoy!
 ### Frontend
 
 - Web
+  - HTML & CSS
   - React
 
 ## Setup & Running
