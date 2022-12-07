@@ -43,6 +43,8 @@ cd Pizza_project_react2
 npm install
 npm run start
 ```
+### 4. Run SQL server Locally
+use Pizzaria.dacpac inside of PizzariaProjectC#/ to init the local SQL server
 
 ## A quick look
 ![home](https://user-images.githubusercontent.com/86378684/206291767-5f8ae2db-e86a-4ca7-948e-815b511e8f48.png)
