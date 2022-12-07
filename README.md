@@ -34,7 +34,7 @@ git clone https://github.com/OrGanon2/PIzzariaProjectBack.git
 open sln of backend and run with the play button.
 ### 3. Setup React Client
 ```
-cd client
+cd PizzariaProjectC#
 npm install
 npm run start
 ```
