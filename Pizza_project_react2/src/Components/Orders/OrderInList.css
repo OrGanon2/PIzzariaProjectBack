@@ -1,0 +1,8 @@
+.all-container {
+    display: flex;
+}
+.pizza-container {
+    background-color: rgb(202, 230, 255);
+    padding: 8px;
+    font-size: 20px;
+}

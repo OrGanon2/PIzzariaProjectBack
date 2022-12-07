@@ -1,0 +1,8 @@
+.single-order {
+    margin: 10px;
+    background-color: rgb(105, 183, 251);
+    border-radius: 5px;
+    display: flex;
+    width: fit-content;
+    padding: 5px;
+}

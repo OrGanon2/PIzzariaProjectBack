@@ -1,0 +1,38 @@
+.home-text {
+    display: flex;
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    background-color: rgb(199, 255, 255);
+    border-radius: 15px;
+    /* border-color: rgb(110, 187, 255); */
+    border-width: 5px;
+    border: solid 7px rgb(110, 187, 255);
+    padding: 20px;
+}
+
+.home-button {
+    /* display: flex; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    background-color: green;
+    border: solid 7px rgb(110, 187, 255);
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.home-button:hover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    background-color: rgb(110, 187, 255);
+    border: solid 7px green;
+    border-radius: 15px;
+    cursor: pointer;
+}

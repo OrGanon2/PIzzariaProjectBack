@@ -1,0 +1,10 @@
+.single-pizzaria {
+    margin: 20px;
+    display: flex;
+    background-color: rgb(133, 212, 255);
+    padding: 10px;
+}
+.pizzaria-container {
+    display: flex;
+    /* background-color: aquamarine; */
+}

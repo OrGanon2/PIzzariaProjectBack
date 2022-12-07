@@ -1,0 +1,14 @@
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\bin\Debug\net6.0\PizzariaDB.deps.json
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\bin\Debug\net6.0\PizzariaDB.runtimeconfig.json
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\bin\Debug\net6.0\PizzariaDB.dll
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\bin\Debug\net6.0\PizzariaDB.pdb
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.csproj.AssemblyReference.cache
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.AssemblyInfoInputs.cache
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.AssemblyInfo.cs
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.csproj.CoreCompileInputs.cache
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.dll
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\refint\PizzariaDB.dll
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.pdb
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\PizzariaDB.genruntimeconfig.cache
+C:\Users\Or Ganon\source\repos\PizzariaProject\PizzariaDataBase\obj\Debug\net6.0\ref\PizzariaDB.dll

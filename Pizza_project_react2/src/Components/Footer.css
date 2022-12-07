@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(188, 248, 204);
+    color: rgb(42, 53, 44);
+    text-align: center;
+}
+.horizon {
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}

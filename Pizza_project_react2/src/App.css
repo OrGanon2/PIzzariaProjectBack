@@ -1,0 +1,23 @@
+.head-container {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+.cont {
+  flex-direction: column;
+}
+.title {
+  color: brown;
+}
+.title-container {
+  padding: 5px;
+  border-radius: 8px;
+  background-color: rgb(215, 255, 255);
+  justify-content: center;
+}
+.go-to-connect {
+  background-color: rgb(195, 227, 255);
+  font-size: 20px;
+  cursor: pointer;
+  margin: 30px;
+}
