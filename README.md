@@ -31,10 +31,13 @@ This project is all about Pizza, enjoy!
 git clone https://github.com/OrGanon2/PIzzariaProjectBack.git
 ```
 ### 2. Setup C# server
+```
+cd 
+```
 open sln of backend and run with the play button.
 ### 3. Setup React Client
 ```
-cd PizzariaProjectC#
+cd Pizza_project_react2
 npm install
 npm run start
 ```
