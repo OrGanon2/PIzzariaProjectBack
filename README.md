@@ -26,7 +26,7 @@ This project is all about Pizza, enjoy!
   - SQL server
 
 ## Run Server & Client manually
-### 1.Clone repository
+### 1. Clone repository
 ```
 git clone https://github.com/OrGanon2/PIzzariaProjectBack.git
 ```
